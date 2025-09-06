@@ -1,4 +1,4 @@
-# De-PEERRE
+# De-PeERRE
 Proyecto final de COMP2051.WEB DEV CLIENT-SIDE(FRONT-END) sobre una página web de turismo sobre Puerto Rico. 
 
 Identificación del tema
@@ -20,4 +20,4 @@ Mi página estará dirigida a:
 
 En resumen, el público meta son personas que quieran disfrutar lo mejor de Puerto Rico, ya sea en unas vacaciones largas o en un fin de semana corto.
 
-El 5 de septiembre cree mi GitHub, cree este repocitorio llamado "De-PeRRE" con su README.
+El 5 de septiembre cree mi GitHub, cree este repocitorio llamado "De-PeERRE" con su README.
