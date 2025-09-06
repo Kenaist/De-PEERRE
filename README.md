@@ -14,9 +14,13 @@ El propósito de mi sitio es promocionar Puerto Rico como un destino turístico 
 Audiencia meta (público objetivo)
 
 Mi página estará dirigida a:
+
       •     Turistas locales y extranjeros que quieran conocer más de Puerto Rico.
+      
       •     Jóvenes y adultos, interesados en nuestra cultura, naturaleza o simplemente en descubrir sitios nuevos.
+      
       •     Personas que buscan información práctica y accesible para organizar viajes o escapadas, desde familias hasta parejas o aventureros.
+
 
 En resumen, el público meta son personas que quieran disfrutar lo mejor de Puerto Rico, ya sea en unas vacaciones largas o en un fin de semana corto.
 
